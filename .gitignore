@@ -1,3 +1,7 @@
 outputs/
 __pycache__/
 .pytest_cache/
+# Foundry-generated build and deployment artifacts
+out/
+cache/
+broadcast/
